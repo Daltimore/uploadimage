@@ -8,9 +8,9 @@ require 'Api.php';
 
 
 \Cloudinary::config(array( 
-  "cloud_name" => "dnuraq8oa", 
-  "api_key" => "274545435744652", 
-  "api_secret" => "jflXJqU3PYSSqtRUAoVz3F1D4dU" 
+  "cloud_name" => "www-pluslitedesigns-org", 
+  "api_key" => "424488131939594", 
+  "api_secret" => "tEuTbYckZtH9AgEcOP_QuoSSNqQ" 
 ));
 
 $target_dir = "uploads/";
